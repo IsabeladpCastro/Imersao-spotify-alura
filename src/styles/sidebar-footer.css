@@ -93,7 +93,7 @@ body{
     align-items: flex-start;
     justify-content: space-between;
     gap: 20px;
-    background-color: #242424;
+    background: linear-gradient(to right, #b137d6, #509bf5);
     color: #b3b3b3;
     font-weight: 600;
     font-size: 14px;
@@ -142,7 +142,7 @@ body{
     align-items: flex-start;
     justify-content: space-between;
     gap: 20px;
-    background-color: #242424;
+    background: linear-gradient(to right, #c337d6, #f55050);    
     color: #b3b3b3;
     font-weight: 600;
     font-size: 14px;
